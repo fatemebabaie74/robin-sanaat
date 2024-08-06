@@ -1,0 +1,33 @@
+.container{
+display: flex;
+max-width: 1000px;
+}
+
+.maincontainer{
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+margin: auto;
+}
+
+
+.maincontainer ul{
+justify-content: center;
+}
+
+.maincontainer li{
+    margin: 1em 2em;
+}
+
+.img{
+
+}
+
+.leftcotainer{
+    display: flex;
+}
+
+.leftcotainer img{
+    border-radius: 50%;
+}
